@@ -30,7 +30,7 @@ It can also generate timestamps for calendar-based intervals:
 
 3. Optionally, symbolically link it to your PATH:
    ```bash
-   ln -s "$(pwd)/quicktime" /usr/local/bin/quicktime
+   ln -s "$(pwd)/quicktime.sh" /usr/local/bin/quicktime
    ```
 
 ## Usage
